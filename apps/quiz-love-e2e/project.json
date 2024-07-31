@@ -1,0 +1,9 @@
+{
+  "name": "quiz-love-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/quiz-love-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["quiz-love"],
+  "// targets": "to see all targets run: nx show project quiz-love-e2e --web",
+  "targets": {}
+}
